@@ -34,3 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Open your Web browser and in the address bar type http://localhost:8080/Page1.php
 4. This should get your *Page1.php* up and running.
 5. If any errors occur, refer *Google*.
+
+#### Note
+
+There are extra *.png*'s that you don't need to worry about !
