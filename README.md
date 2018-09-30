@@ -39,4 +39,4 @@ These instructions will get you a copy of the project up and running on your loc
 #### Note
 
 * You can open *phpmyadmin* after starting both servers and clicking on the *Admin* button beside the **MySQL** *Start* button
-* There are extra *.png*'s that you don't need to worry about !
+* There are extra *.png*'s and *.jpg*'s that you don't need to worry about !
