@@ -31,10 +31,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Open *phpmyadmin* and import all the three *.sql* files in a database named *mydb*.
 2. Save all the *.php* files in the **C: -> xampp -> htdocs** folder.
-3. Open your Web browser and in the address bar type http://localhost:8080/Page1.php
-4. This should get your *Page1.php* up and running.
-5. If any errors occur, refer *Google*.
+3. Open *XAMPP Control Panel* and *Start* **Apache** and **MySQL** servers.
+4. Open your Web browser and in the address bar type http://localhost:8080/Page1.php
+5. This should get your *Page1.php* up and running.
+6. If any errors occur, refer *Google*.
 
 #### Note
 
-There are extra *.png*'s that you don't need to worry about !
+* You can open *phpmyadmin* after starting both servers and clicking on the *Admin* button beside the **MySQL** *Start* button
+* There are extra *.png*'s that you don't need to worry about !
