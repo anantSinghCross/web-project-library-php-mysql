@@ -13,7 +13,7 @@ added
 * The front page has a link which redirects to administrator page after person has entered
 the correct administrator password.
 * Administrator can change the database by adding or deleting any number of books.
-**Main actors in this project are 'Student' and 'Administrator'**
+* **Main actors in this project are 'Student' and 'Administrator'**
 
 ## Getting Started
 
