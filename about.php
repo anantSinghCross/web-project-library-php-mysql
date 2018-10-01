@@ -48,7 +48,7 @@ if(isset($_POST['submit1']))
 <br><br><br>
 Developed with Goodwill by
 <br><br>
-Anant<br>Naman<br>Rishabh<br>Saksham<br><br>
+Anant Singh :D<br><br>
 </div>
 <br>
 <a href="Page1.php"><input type=button class=button value=Home></a>
