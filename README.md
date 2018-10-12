@@ -36,6 +36,9 @@ These instructions will get you a copy of the project up and running on your loc
 5. This should get your *Page1.php* up and running.
 6. If any errors occur, refer *Google*.
 
+***
+***
+
 #### Note
 
 * You can open *phpmyadmin* after starting both servers and clicking on the *Admin* button beside the **MySQL** *Start* button
